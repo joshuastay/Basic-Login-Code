@@ -4,9 +4,9 @@ This is a simple class to create a way to login to a program. It stores the logi
 
 To Use:
 
--import login.py
+-download and import login.py
 
--construct LoginCredentials object. [objectname = LoginCredentials()]
+-construct LoginCredentials object. [objectname = login.LoginCredentials()]
 
 -call on new_login method to create a new set of credentials. Takes no arguments, returns nothing.
 
